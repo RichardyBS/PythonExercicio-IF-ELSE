@@ -1,0 +1,1 @@
+"""Escreva um programa que determine o valor máximo, o valor mínimo e o valor médio de uma sequência de dez números inteiros solicitados ao usuário. """

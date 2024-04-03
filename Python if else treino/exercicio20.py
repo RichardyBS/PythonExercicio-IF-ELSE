@@ -1,0 +1,1 @@
+"""Melhore o programa anterior para informar o usuário as situações a seguir: Não existem raízes reais (∆ < 0); Existem raízes reais idênticas (∆ = 0); Existem raízes reais distintas (∆ > 0); """

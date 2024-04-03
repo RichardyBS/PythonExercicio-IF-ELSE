@@ -1,0 +1,1 @@
+"""Escreva um programa que leia os coeficientes de uma equação do segundo grau e calcule suas raízes. Lembrando ax2 +bx+c =0. """
